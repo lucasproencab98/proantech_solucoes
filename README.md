@@ -1,12 +1,12 @@
-# Proença Informática
+# Proantech Soluções Tecnológicas
 
-Site institucional desenvolvido para apresentar os serviços da **Proença Informática**, com foco em assistência técnica para computadores, notebooks, redes, segurança digital e desenvolvimento de sites.
+Site institucional desenvolvido para apresentar os serviços da **Proantech Soluções Tencológicas**, com foco em assistência técnica para computadores, notebooks, redes, segurança digital e desenvolvimento de sites.
 
 O projeto foi desenvolvido utilizando apenas **HTML, CSS e JavaScript**, priorizando desempenho, responsividade e uma interface moderna.
 
 ## Demonstração
 
-https://proencainfotech.vercel.app/
+https://proantech.vercel.app/
 
 ---
 
